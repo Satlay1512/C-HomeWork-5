@@ -3,13 +3,6 @@
 // [345, 897, 568, 234] -> 2
 
 
-// int PromptInt(string strMessage)
-// {
-//     System.Console.Write(strMessage);
-//     int temp = int.Parse(System.Console.ReadLine());
-//     return temp;
-// }
-
 int[] CreateArray(int length)
 {
     int[] tempArray = new int[length];
